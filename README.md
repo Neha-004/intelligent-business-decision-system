@@ -1,3 +1,10 @@
+## 📌 Project Overview
+## 📊 Dashboard Preview
+## 🔗 Live Tableau Dashboard
+## 🔍 Key Business Insights
+## 🛠 Tools & Technologies
+## 📂 Dataset
+## 🎯 Business Impact
 ## 📊 Tableau Dashboard
 
 🔗 **Live Dashboard:**  
