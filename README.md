@@ -1,2 +1,10 @@
-# intelligent-business-decision-system
-An end-to-end data science project to detect profit leakage, classify sales risk, and predict future losses using data-driven decision intelligence.
+## 📊 Tableau Dashboard
+
+🔗 **Live Dashboard:**  
+https://public.tableau.com/views/ProfitLeakageOrderRiskAnalysisGlobalSuperstore/Dashboard1
+
+### Dashboard Insights
+- Analyzed profit leakage across discount levels
+- Identified high-risk orders and their regional distribution
+- Compared leakage patterns by product category
+- Enabled interactive tooltips for deeper insights
